@@ -1,0 +1,10 @@
+header{
+  background-color: #efefef;
+  min-height: 40px;
+}
+header ul{
+  list-style: none;
+}
+header li{
+  display: inline-block;
+}
